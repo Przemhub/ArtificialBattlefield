@@ -1,0 +1,112 @@
+{
+  "Alpha": {
+    "0": {
+      "NAME": "Tanky",
+      "HEALTH": 194,
+      "DMG": 9,
+      "ATK SPEED": 31,
+      "SPELL SPEED": 0,
+      "ATK PROB": 3,
+      "DOG PROB": 2,
+      "DEF PROB": 4,
+      "SPELL PROB": 1,
+      "WINS": 101,
+      "LOSSES": 121
+    },
+    "1": {
+      "NAME": "Balanced",
+      "HEALTH": 189,
+      "DMG": 28,
+      "ATK SPEED": 12,
+      "SPELL SPEED": 26,
+      "ATK PROB": 4,
+      "DOG PROB": 1,
+      "DEF PROB": 2,
+      "SPELL PROB": 3,
+      "WINS": 171,
+      "LOSSES": 69
+    },
+    "2": {
+      "NAME": "Killer",
+      "HEALTH": 178,
+      "DMG": 55,
+      "ATK SPEED": 39,
+      "SPELL SPEED": 9,
+      "ATK PROB": 6,
+      "DOG PROB": -1,
+      "DEF PROB": 3,
+      "SPELL PROB": 0,
+      "WINS": 40,
+      "LOSSES": 0
+    }
+  },
+  "Beta": {
+
+    "0": {
+      "NAME": "Mage",
+      "HEALTH": 108,
+      "DMG": 23,
+      "ATK SPEED": 15,
+      "SPELL SPEED": 31,
+      "ATK PROB": 3,
+      "DOG PROB": 0,
+      "DEF PROB": 2,
+      "SPELL PROB": 5,
+      "WINS": 1,
+      "LOSSES": 4
+    },
+    "1": {
+			"NAME": "Attacker",
+			"HEALTH": 61,
+			"DMG": 48,
+			"ATK SPEED": 40,
+			"SPELL SPEED": 3,
+			"ATK PROB": 10,
+			"DOG PROB": 0,
+			"DEF PROB": 0,
+			"SPELL PROB": 0,
+			"WINS": 45,
+			"LOSSES": 9
+		},
+    "2": {
+			"NAME": "Tanky2",
+			"HEALTH": 191,
+			"DMG": 37,
+			"ATK SPEED": 17,
+			"SPELL SPEED": 35,
+			"ATK PROB": 0,
+			"DOG PROB": 1,
+			"DEF PROB": 7,
+			"SPELL PROB": 2,
+			"WINS": 38,
+			"LOSSES": 13
+		},
+    "3": {
+			"NAME": "DodgeMage",
+			"HEALTH": 178,
+			"DMG": 49,
+			"ATK SPEED": 35,
+			"SPELL SPEED": 34,
+			"ATK PROB": 0,
+			"DOG PROB": 4,
+			"DEF PROB": 3,
+			"SPELL PROB": 3,
+			"WINS": 86,
+			"LOSSES": 15
+		},
+      "4": {
+			"NAME": "Attacker",
+			"HEALTH": 178,
+			"DMG": 31,
+			"ATK SPEED": 27,
+			"SPELL SPEED": 29,
+			"ATK PROB": 1,
+			"DOG PROB": 6,
+			"DEF PROB": 0,
+			"SPELL PROB": 0,
+			"WINS": 0,
+			"LOSSES": 0
+		}
+  }
+
+}

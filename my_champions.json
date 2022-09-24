@@ -1,0 +1,71 @@
+{
+  "Alpha": {
+    "0": {
+      "NAME": "Tanky",
+      "HEALTH": 194,
+      "DMG": 9,
+      "ATK SPEED": 31,
+      "SPELL SPEED": 0,
+      "ATK PROB": 3,
+      "DOG PROB": 2,
+      "DEF PROB": 4,
+      "SPELL PROB": 1,
+      "WINS": 99,
+      "LOSSES": 120
+    },
+    "1": {
+      "NAME": "Balanced",
+      "HEALTH": 189,
+      "DMG": 28,
+      "ATK SPEED": 12,
+      "SPELL SPEED": 26,
+      "ATK PROB": 4,
+      "DOG PROB": 1,
+      "DEF PROB": 2,
+      "SPELL PROB": 3,
+      "WINS": 162,
+      "LOSSES": 66
+    },
+    "2": {
+      "NAME": "Killer",
+      "HEALTH": 178,
+      "DMG": 55,
+      "ATK SPEED": 39,
+      "SPELL SPEED": 9,
+      "ATK PROB": 6,
+      "DOG PROB": -1,
+      "DEF PROB": 3,
+      "SPELL PROB": 0,
+      "WINS": 1,
+      "LOSSES": 0
+    }
+  },
+  "Beta": {
+    "0": {
+      "NAME": "",
+      "HEALTH": 68,
+      "DMG": 20,
+      "ATK SPEED": 50,
+      "SPELL SPEED": 19,
+      "ATK PROB": 4,
+      "DOG PROB": 4,
+      "DEF PROB": 0,
+      "SPELL PROB": 2,
+      "WINS": 103,
+      "LOSSES": 10
+    }
+  },
+  "0": {
+			"NAME": "",
+			"HEALTH": 182,
+			"DMG": 47,
+			"ATK SPEED": 33,
+			"SPELL SPEED": 28,
+			"ATK PROB": 6,
+			"DOG PROB": 1,
+			"DEF PROB": 0,
+			"SPELL PROB": 3,
+			"WINS": 94,
+			"LOSSES": 7
+		}
+}
